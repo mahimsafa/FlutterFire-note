@@ -1,4 +1,4 @@
-# note_app
+# FlutterFire
 
 A new Flutter project.
 
