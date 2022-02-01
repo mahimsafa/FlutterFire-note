@@ -13,4 +13,7 @@
 
 ## Screenshots
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Login Screen](/screenshots/img1.png "Login Screen") ![Google Sign In Screen](/screenshots/img2.png "Google Sign In Screen")![Home Screen](/screenshots/img3.png "Home Screen") ![Profile Screen](/screenshots/img4.png "Profile Screen") ![Add Note Screen](/screenshots/img5.png "Add Note Screen") ![Home Screen With Content](/screenshots/img6.png "Home Screen With Content")
+
+
+
