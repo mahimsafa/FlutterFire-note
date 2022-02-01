@@ -1,16 +1,16 @@
-# FlutterFire
+# FlutterFire Note
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+**FlutterFire Note** is a `Flutter` based simple cross platform note application which uses flutter as its backend. It is a fully featured **CRUD** application which protects users data using firebase authentication. 
 
-This project is a starting point for a Flutter application.
+## Features 
 
-A few resources to get you started if this is your first Flutter project:
+* Minimal Design
+* Firebase Authentication (Google Sign In)
+* Cloud Firestore
+* Realtime Data Fetching
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
